@@ -6,7 +6,7 @@ If You Want To Create This Type Of Bot Contact Us
 
 🔗 For More Information Contact @VJbots_bot 🔗</b>"""
 
-    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/DeltaFiles_bot><b>Movie Search Bot</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/DeltaFiles_bot><b>DeltaFiles Bot</b></a>\n
 👑 Oᴡɴᴇʀ : <a href=https://t.me/Delta_Owner><b>🏆 Vijay 🏆</b></a>\n
 📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/DeltaFiles><b>⚡ DeltaFiles ⚡</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
@@ -16,7 +16,7 @@ If You Want To Create This Type Of Bot Contact Us
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 ✅ - This Bot Is An Private Project
-✅ - ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/DeltaFiles">⚡ ʜᴇʀᴇ ⚡</a>
+✅ - ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/Delta_Owner">⚡ ʜᴇʀᴇ ⚡</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:</b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>

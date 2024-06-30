@@ -560,7 +560,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                          [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/RequestGroupTamil'),
                           InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/DeltaFiles')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="https://t.me/Delta_Owner")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Delta_Owner")
                          ]
                         ]
                     )
@@ -607,7 +607,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                          [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/RequestGroupTamil'),
                           InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/DeltaFiles')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="https://t.me/Delta_Owner")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Delta_Owner")
                          ]
                         ]
                     )
